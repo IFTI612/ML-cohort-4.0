@@ -1,0 +1,6 @@
+-----------Write down this in the terminal-------
+
+-pip install notebook
+-jupyter notebook
+
+-then create new file (Python 3 ipykernel)
